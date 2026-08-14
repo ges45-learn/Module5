@@ -5,3 +5,5 @@
 - Examine common ATP challenges in thermal, mechanical, electrical and environmental aspects
 - Analyse case studies of innovative ATP techniques and possible new business models 
 
+# Useful Links 
+- https://imaps.org/page/Education
