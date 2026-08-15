@@ -17,3 +17,4 @@
 - https://www.lookdigitalsignage.com/blog/what-is-system-on-chip#how-digital-cms-works-with-soc-displays
 - https://resources.pcb.cadence.com/blog/2023-chiplet-vs-monolithic-superior-semiconductor-integration
 - https://semiengineering.com/true-3d-is-much-tougher-than-2-5d/
+- https://semiengineering.com/an-osat-perspective-on-semiconductor-market-trends/
