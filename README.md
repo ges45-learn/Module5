@@ -14,3 +14,4 @@
 - https://pubs.acs.org/aanmf6/article/4/7/6903/391380/Transfer-Learning-Based-Artificial-Intelligence
 - https://www.synopsys.com/blogs/chip-design/multi-die-chip-design-samsung-foundry.html
 - https://eandt.theiet.org/2025/10/14/biodegradable-circuit-boards-look-meet-specs-next-gen-wireless-electronics
+- https://www.lookdigitalsignage.com/blog/what-is-system-on-chip#how-digital-cms-works-with-soc-displays
