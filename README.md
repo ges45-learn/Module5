@@ -18,3 +18,4 @@
 - https://resources.pcb.cadence.com/blog/2023-chiplet-vs-monolithic-superior-semiconductor-integration
 - https://semiengineering.com/true-3d-is-much-tougher-than-2-5d/
 - https://semiengineering.com/an-osat-perspective-on-semiconductor-market-trends/
+- www.semi.org/sites/semi.org/files/2022-11/06%20LeeChoon_JCET.pdf
