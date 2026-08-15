@@ -12,4 +12,5 @@
 - https://news.skhynix.com/en/semiconductor-back-end-process-episode-1-understanding-semiconductor-testing/
 - https://www.azonano.com/article.aspx?ArticleID=6702
 - https://pubs.acs.org/aanmf6/article/4/7/6903/391380/Transfer-Learning-Based-Artificial-Intelligence
+- https://www.synopsys.com/blogs/chip-design/multi-die-chip-design-samsung-foundry.html
   
