@@ -21,3 +21,4 @@
 - www.semi.org/sites/semi.org/files/2022-11/06%20LeeChoon_JCET.pdf
 - https://www.tsmc.com/english/news-events/blog-article-20220615
 - https://www.synopsys.com/solutions/memory/dtco.html#overview
+- https://news.skhynix.com/en/light-thin-short-and-small-the-development-of-semiconductor-packages/
